@@ -8,18 +8,5 @@
     "experimentalDecorators": true,
     "removeComments": false,
     "noImplicitAny": false
-  },
-  "exclude": [
-    "example",
-    "node_modules",
-    "dist",
-    "build",
-    "typings/main",
-    "typings/main.d.ts"
-  ],
-  "filesGlob": [
-    "src/**/*.ts",
-    "typings/*.d.ts",
-    "!src/**/*.d.ts"
-  ]
+  }
 }
